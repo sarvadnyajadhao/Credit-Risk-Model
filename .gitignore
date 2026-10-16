@@ -1,0 +1,19 @@
+# Data files - regenerate via src/ scripts, don't commit large/derived data
+data/*.csv
+outputs/*_pd_test.csv
+outputs/*_score_test.csv
+
+# Keep the raw dataset's presence documented but not the file itself
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+
+# Duplicate model artifacts
+outputs/*.joblib

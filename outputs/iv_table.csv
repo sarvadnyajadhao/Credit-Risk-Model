@@ -1,0 +1,16 @@
+,IV,strength
+TotalPastDue,1.446216998112044,suspicious (check leak)
+RevolvingUtilizationOfUnsecuredLines,1.1078052615065306,suspicious (check leak)
+NumberOfTimes90DaysLate,0.8923761951954673,suspicious (check leak)
+NumberOfTime30-59DaysPastDueNotWorse,0.7511057175550768,suspicious (check leak)
+NumberOfTime60-89DaysPastDueNotWorse,0.6056153482848439,suspicious (check leak)
+age,0.2476181349595017,medium
+AgeBucket,0.2402193808617447,medium
+IncomePerDependent,0.1182922583433798,medium
+MonthlyIncome,0.07826990214894754,weak
+DebtRatio,0.07217694323834306,weak
+NumberOfOpenCreditLinesAndLoans,0.06836826121541899,weak
+CreditLinesPerAge,0.05503906664040302,weak
+NumberOfDependents,0.035360223375848,weak
+EstimatedMonthlyDebt,0.029211093485077937,weak
+NumberRealEstateLoansOrLines,0.013473384651396365,useless

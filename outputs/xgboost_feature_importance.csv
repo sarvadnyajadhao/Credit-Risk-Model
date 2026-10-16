@@ -1,0 +1,14 @@
+,importance
+TotalPastDue,0.50812334
+RevolvingUtilizationOfUnsecuredLines,0.14423516
+NumberOfTimes90DaysLate,0.09865391
+NumberOfTime30-59DaysPastDueNotWorse,0.06149875
+NumberOfTime60-89DaysPastDueNotWorse,0.04457359
+CreditLinesPerAge,0.026275333
+age,0.023622831
+DebtRatio,0.018936668
+EstimatedMonthlyDebt,0.017101299
+MonthlyIncome,0.01657454
+NumberOfOpenCreditLinesAndLoans,0.015679825
+IncomePerDependent,0.013546924
+NumberOfDependents,0.011177766
