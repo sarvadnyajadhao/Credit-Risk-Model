@@ -190,3 +190,20 @@ The Streamlit application was tested with multiple applicant profiles and input 
 
 Sarvadnya Jadhao — B.Com (Computer Applications),
 Dr. Ambedkar Institute (RTMNU).
+
+## Application Screenshots
+
+### 1. Applicant Input Form
+Enter applicant financial and credit-history details to assess credit risk.
+
+![Credit Risk Model - Applicant Input Form](screenshots/app-inputs.png)
+
+### 2. Credit Risk Assessment Results
+View the model's predicted probability of default, credit score, risk grade, and recommendation.
+
+![Credit Risk Model - Assessment Results](screenshots/assessment-results.png)
+
+### 3. Risk Explanation and Expected Loss
+Explore the estimated financial loss and feature contributions behind the applicant's risk assessment.
+
+![Credit Risk Model - Risk Explanation](screenshots/risk-explanation.png)
